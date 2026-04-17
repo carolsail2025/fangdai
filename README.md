@@ -8,7 +8,7 @@
 
 ## 预览
 
-https://geeeeeeeek.github.io/fangdai/
+https://carolsail2025.github.io/fangdai/
 
 ## 代码结构
 
